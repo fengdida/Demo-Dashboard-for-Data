@@ -1,0 +1,1 @@
+00 * * * * /usr/bin/python3 /home/FengDida/modular/update_data.py >> ~/cron.log 2>&1

@@ -1,0 +1,5 @@
+scrach all data: extract_data.py 
+scrach increment data: update_data.py 
+
+BCP command:
+bcp data in "/home/FengDida/modular/datatable.csv" -S Modular -U SA -P <password> -d MODULAR -c -t"," -r"0x0A" 
