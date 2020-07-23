@@ -6,3 +6,4 @@ Add crontab task to run it daily
 
 ## Dash  
 Use Python Dash to create an interactive data plateform
+run by: python dash_demo.py
